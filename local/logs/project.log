@@ -1,0 +1,339 @@
+2019-07-16T05:25:16.344Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-16T05:25:17.635Z - normal: Initializing Asset Database
+2019-07-16T05:25:17.666Z - normal: checking language setting...
+2019-07-16T05:25:17.666Z - normal: Language: zh
+2019-07-16T05:25:18.789Z - success: preview server running at http://localhost:7456
+2019-07-16T05:25:18.789Z - success: protocol editor-framework registered
+2019-07-16T05:25:18.789Z - success: protocol app registered
+2019-07-16T05:25:18.789Z - success: protocol theme registered
+2019-07-16T05:25:18.789Z - success: protocol packages registered
+2019-07-16T05:25:18.789Z - success: protocol uuid registerred
+2019-07-16T05:25:18.789Z - success: protocol db registerred
+2019-07-16T05:25:18.789Z - success: protocol thumbnail registerred
+2019-07-16T05:25:18.789Z - success: protocol unpack registerred
+2019-07-16T05:25:18.789Z - success: protocol disable-commonjs registerred
+2019-07-16T05:25:19.008Z - normal: connected!
+2019-07-16T05:25:19.008Z - normal: Check project D:\Cocos\starProject
+2019-07-16T05:25:19.008Z - normal: Initializing project D:\Cocos\starProject
+2019-07-16T05:25:19.714Z - normal: Initializing Cocos2d
+2019-07-16T05:25:21.037Z - normal: Initializing engine extends
+2019-07-16T05:25:21.066Z - success: asset-db-debugger loaded
+2019-07-16T05:25:21.066Z - success: baidu-adapter loaded
+2019-07-16T05:25:21.081Z - success: color-picker loaded
+2019-07-16T05:25:21.238Z - success: fb-audience-network loaded
+2019-07-16T05:25:21.382Z - success: fb-live-stream loaded
+2019-07-16T05:25:21.382Z - success: google-play-instant loaded
+2019-07-16T05:25:21.398Z - success: huawei-runtime loaded
+2019-07-16T05:25:21.814Z - success: cpk-publish loaded
+2019-07-16T05:25:21.814Z - success: jsb-adapter loaded
+2019-07-16T05:25:21.814Z - success: oppo-runtime loaded
+2019-07-16T05:25:21.830Z - success: package-manager loaded
+2019-07-16T05:25:22.001Z - success: qqplay-adapter loaded
+2019-07-16T05:25:22.001Z - success: runtime-dev-tools loaded
+2019-07-16T05:25:22.019Z - success: sdkbox loaded
+2019-07-16T05:25:22.025Z - success: tester loaded
+2019-07-16T05:25:22.028Z - success: ui-grid loaded
+2019-07-16T05:25:22.031Z - success: ui-kit-preview-extra loaded
+2019-07-16T05:25:22.033Z - success: ui-kit-preview loaded
+2019-07-16T05:25:22.036Z - success: ui-kit loaded
+2019-07-16T05:25:22.040Z - success: ui-tree loaded
+2019-07-16T05:25:22.047Z - success: vivo-runtime loaded
+2019-07-16T05:25:22.048Z - success: weapp-adapter loaded
+2019-07-16T05:25:22.049Z - success: xiaomi-adapter loaded
+2019-07-16T05:25:22.099Z - success: assets loaded
+2019-07-16T05:25:22.099Z - success: builder loaded
+2019-07-16T05:25:22.544Z - success: cocos-services loaded
+2019-07-16T05:25:22.551Z - success: console loaded
+2019-07-16T05:25:22.602Z - success: fb-instant-games loaded
+2019-07-16T05:25:22.604Z - success: google-instant-games loaded
+2019-07-16T05:25:22.610Z - success: hierarchy loaded
+2019-07-16T05:25:22.614Z - success: inspector loaded
+2019-07-16T05:25:22.615Z - success: keystore loaded
+2019-07-16T05:25:22.621Z - success: node-library loaded
+2019-07-16T05:25:22.623Z - success: package-asset loaded
+2019-07-16T05:25:22.625Z - success: preferences loaded
+2019-07-16T05:25:22.627Z - success: project-exporter loaded
+2019-07-16T05:25:22.629Z - success: project-importer loaded
+2019-07-16T05:25:22.631Z - success: project-settings loaded
+2019-07-16T05:25:22.631Z - success: scene loaded
+2019-07-16T05:25:22.631Z - success: simulator-debugger loaded
+2019-07-16T05:25:22.631Z - success: sprite-editor loaded
+2019-07-16T05:25:22.647Z - success: store loaded
+2019-07-16T05:25:22.647Z - success: timeline loaded
+2019-07-16T05:25:22.647Z - success: xiaomi-runtime loaded
+2019-07-16T05:25:24.717Z - normal: Loading packages
+2019-07-16T05:25:24.732Z - normal: Watching packages
+2019-07-16T05:25:25.375Z - info: Cocos Services load base data!
+2019-07-16T05:25:26.002Z - normal: Run Application
+2019-07-16T05:58:48.098Z - error: Property 'Game.starPrefab' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:60:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:67:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:70:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T05:58:48.101Z - error: Property 'Game.ground' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:60:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:67:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:70:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:02:04.843Z - error: Property 'Game.starPrefab' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:64:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:71:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:74:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:02:04.846Z - error: Property 'Game.ground' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:64:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:71:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:74:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:02:04.846Z - error: Property 'Game.player' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:64:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:71:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:74:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:04:14.700Z - error: Property 'Game.starPrefab' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:04:14.702Z - error: Property 'Game.ground' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:04:14.702Z - error: Property 'Game.player' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:06:49.899Z - error: Property 'Game.starPrefab' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:06:49.901Z - error: Property 'Game.ground' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:06:49.901Z - error: Property 'Game.player' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:08:59.165Z - error: Property 'Game.starPrefab' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:08:59.167Z - error: Property 'Game.ground' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:08:59.167Z - error: Property 'Game.player' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:09:55.273Z - error: Property 'Game.starPrefab' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:68:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:78:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:09:55.274Z - error: Property 'Game.ground' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:68:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:78:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:09:55.274Z - error: Property 'Game.player' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:68:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:78:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:10:20.560Z - error: Property 'Game.starPrefab' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:10:20.560Z - error: Property 'Game.ground' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:10:20.561Z - error: Property 'Game.player' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:12:31.510Z - error: Property 'Game.starPrefab' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:12:31.513Z - error: Property 'Game.ground' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T06:12:31.513Z - error: Property 'Game.player' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\CCDebug.js:167:16)
+    at Object.exports.preprocessAttrs (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\preprocess-class.js:215:36)
+    at declareProperties (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:642:28)
+    at Object.CCClass [as Class] (C:\CocosCreator_2.0.10\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCClass.js:685:17)
+    at __define (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:17:4)
+    at D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:65:13
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:72:11)
+    at Object.<anonymous> (D:\Cocos\starProject\temp\quick-scripts\assets\scripts\Game.js:75:3)
+    at Module._compile (module.js:571:32)
+2019-07-16T08:22:19.340Z - error: Failed to create asset db://assets/scene1.fire, messages: Error: Parent path D:\Cocos\starProject\assets is not exists
+    at u.l.create (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\lib\tasks.js:1:18447)
+    at _tasks.r.queue (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\index.js:1:2264)
+    at C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+    at u.o.error (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\lib\utils.js:1:2273)
+    at Object._tasks.push [as callback] (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\lib\interface.js:1:4937)
+    at C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at u.<anonymous> (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\index.js:1:1883)
+    at u.l.create (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\lib\tasks.js:1:18445)
+    at _tasks.r.queue (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\index.js:1:2264)
+2019-07-16T08:22:19.343Z - error: Failed to create asset db://assets/scene1.fire, messages: Error: Parent path D:\Cocos\starProject\assets is not exists
+    at u.l.create (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\lib\tasks.js:1:18447)
+    at _tasks.r.queue (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\index.js:1:2264)
+    at C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process (C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+    at u.o.error (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\lib\utils.js:1:2273)
+    at e.existsSync.Editor.assetdb.create (C:\CocosCreator_2.0.10\resources\app.asar\editor\builtin\scene\main.js:1:1687)
+    at Object._tasks.push [as callback] (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\lib\interface.js:1:4999)
+    at C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at C:\CocosCreator_2.0.10\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at u.<anonymous> (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\index.js:1:1883)
+    at u.l.create (C:\CocosCreator_2.0.10\resources\app.asar\asset-db\lib\tasks.js:1:18445)
+2019-07-16T08:22:19.346Z - error: [object Object]
+    at t.scene.close (C:\CocosCreator_2.0.10\resources\app.asar\editor\page\scene-utils\edit-mode\index.js:1:1244)
+    at s (C:\CocosCreator_2.0.10\resources\app.asar\editor\page\scene-utils\edit-mode\modes\scene.js:1:1670)
+    at EventEmitter.o.on.n (C:\CocosCreator_2.0.10\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:3757)
+    at emitThree (events.js:116:13)
+    at EventEmitter.emit (events.js:197:7)
+2019-07-16T08:22:19.347Z - failed: Task [close-scene] run error, stop running other tasks.
+ [object Object]
